@@ -1,1 +1,1 @@
-# KUDZ - Social Network for connecting with friends
+# KUDZ - Social Network for connecting with friends & Bots
