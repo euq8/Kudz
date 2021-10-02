@@ -1,8 +1,8 @@
 {
-  "name": "mern-skeleton",
+  "name": "kudz",
   "version": "2.0.0",
   "description": "A MERN stack skeleton web application",
-  "author": "Shama Hoque",
+  "author": "Ashfaque Hussain",
   "license": "MIT",
   "keywords": [
     "react",
@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shamahoque/mern-skeleton.git"
+    "url": "https://github.com/euq8/Kudz.git"
   },
-  "homepage": "https://github.com/shamahoque/mern-skeleton",
+  "homepage": "https://github.com/euq8/Kudz",
   "main": "./dist/server.generated.js",
   "scripts": {
     "development": "nodemon",
