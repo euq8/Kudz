@@ -8,7 +8,7 @@ import unicornbikeImg from './../assets/images/unicornbike.jpg'
 import Grid from '@material-ui/core/Grid'
 import auth from './../auth/auth-helper'
 import FindPeople from './../user/FindPeople'
-import Newsfeed from './../post/Newsfeed'
+import Newsfeed from './../post/NewsFeed'
 
 const useStyles = makeStyles(theme => ({
   root: {
