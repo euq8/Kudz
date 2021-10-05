@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./LinkList.css";
+import "../../../assets/styles/StyleLinkList.css";
 
 const LinkList = (props) => {
   console.log(props);

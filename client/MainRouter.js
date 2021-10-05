@@ -16,7 +16,7 @@ const MainRouter = () => {
       <Switch>
         <Route exact path="/" component={Home}/>
         <Route path="/users" component={Users}/>
-        <Route path="/covid19" component={Covid19QueryBot}/>
+        <Route path="/covid-query" component={Covid19QueryBot}/>
         <Route path="/signup" component={Signup}/>
         <Route path="/signin" component={Signin}/>
         <PrivateRoute path="/user/edit/:userId" component={EditProfile}/>

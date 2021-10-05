@@ -1,8 +1,8 @@
 import React from "react";
 import { createChatBotMessage } from "react-chatbot-kit";
 
-import LearningOptions from "./components/LearningOptions/LearningOptions";
-import LinkList from "./components/LinkList/LinkList";
+import LearningOptions from "./LearningOptions";
+import LinkList from "./LinkList";
 
 const config = {
   botName: "LearningBot",

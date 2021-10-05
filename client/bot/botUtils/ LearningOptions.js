@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./LearningOptions.css";
+import "../../../assets/styles/StyleLearningOptions.css";
 
 const LearningOptions = (props) => {
   const options = [
